@@ -116,7 +116,7 @@ npm run ios
 1. Download the APK from [Releases](https://github.com/WorksOfNaveen/MovieLibApp/releases/latest) on your phone or transfer it from a PC.
 2. Enable **Install unknown apps** for your browser or Files app (Android Settings).
 3. Open the APK and install.
-4. Open the app — an internet connection is required for TMDB.
+4. Open **MovieLibApp** — an internet connection is required for TMDB.
 
 > Built with React Native CLI (not Expo). iOS distribution would require TestFlight and an Apple Developer account.
 
