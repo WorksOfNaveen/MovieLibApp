@@ -35,6 +35,11 @@ local.properties
 !debug.keystore
 .kotlin/
 
+# Environment
+.env
+.env.local
+config/env.generated.ts
+
 # node.js
 #
 node_modules/
@@ -73,3 +78,6 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+*.md
+!README.md
